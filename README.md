@@ -69,7 +69,8 @@ Download the app <a href="https://expo.dev/artifacts/eas/nntruzHSfn4ffAGLMdVENC.
 
 ## Screenshot
 
-<img asset="./home1.jpeg" width=200>
+<img asset=".assets/home1.jpeg" width=200>
+<img src="ReduxSaga/assets/home.jpg" width="200px">
 <img src="./assets/home2.jpeg" width=200>
 <img src="./assets/profil.jpeg" width=200>
 <img src="./assets/detail.jpeg" width=200>
