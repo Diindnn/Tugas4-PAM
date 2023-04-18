@@ -69,11 +69,10 @@ Download the app <a href="https://expo.dev/artifacts/eas/nntruzHSfn4ffAGLMdVENC.
 
 ## Screenshot
 
-<img asset=".assets/home1.jpeg" width=200>
-<img src="ReduxThunk/assets/home1.jpg" width="200px">
-<img src="./assets/home2.jpeg" width=200>
-<img src="./assets/profil.jpeg" width=200>
-<img src="./assets/detail.jpeg" width=200>
+<img src="ReduxThunk/assets/home1.jpeg" width="200px">
+<img src="ReduxThunk/assets/home2.jpeg" width=200px>
+<img src="ReduxThunk/assets/profil.jpeg" width=200px>
+<img src="ReduxThunk/assets/detail.jpeg" width=200px>
 
 
 ## Author
