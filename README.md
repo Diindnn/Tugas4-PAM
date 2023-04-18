@@ -73,7 +73,7 @@ Download the app <a href="https://expo.dev/artifacts/eas/nntruzHSfn4ffAGLMdVENC.
 <img src="ReduxThunk/assets/home2.jpeg" width=200px>
 <img src="ReduxThunk/assets/profil.jpeg" width=200px>
 <img src="ReduxThunk/assets/detail.jpeg" width=200px>
-
+<img src="ReduxThunk/assets/test.png" width=200px>
 
 ## Author
 
